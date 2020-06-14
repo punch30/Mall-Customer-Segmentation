@@ -1,2 +1,3 @@
 # Mall-Customer-Segmentation
+Implemented  KMeans Algorithm from scratch without using any inbuilt tools and data preprocessing using pandas
 We have to understand the customers like who can be easily converge [Target Customers] so that the sense can be given to marketing team and plan the strategy accordingly. Customer is defined based on  Customer ID, age, gender, annual income and spending score. Spending Score is something you assign to the customer based on your defined parameters like customer behavior and purchasing data. So we have to find the clusters in which we have maximum Spending score so that we can assign our marketing team to them . The clusters can be identified by Kmeans Algorithm in Machine Learning .
